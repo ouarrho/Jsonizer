@@ -1,2 +1,2 @@
 # Jsonizer
- Make your JSON look beautiful
+ Make your JSON looks beautiful
